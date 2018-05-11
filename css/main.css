@@ -1,0 +1,26 @@
+body{
+	background-image: url(../img/nebula.jpg);
+	object-fit: cover;
+}
+
+.line{
+	text-align: center;
+	padding: 100px;
+}
+
+#planet {
+	color: white;
+	font-family: 'Rock Salt', cursive;
+}
+#distance{
+	color: white;
+}
+#feature{
+	color: white;
+}
+
+.item{
+	height: 200px;
+	width: 200px;
+	background-color: orange;
+}
